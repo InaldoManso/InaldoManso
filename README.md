@@ -24,12 +24,10 @@
   ![Snake animation](https://github.com/InaldoManso/InaldoManso/blob/output/github-contribution-grid-snake.svg)
 </div>
  
- 
-• 🔭 Em busca da primeira oportunidade dev Mobile Java ou Dart
- 
-• 🌱 Atualmente estou me aprofundando em Dart e consumo de API's
- 
-• 💬 Pergunte-me sobre estruturad e códigos mobile Java e Dart
+  ##
+ • 🔭 Em busca da primeira oportunidade dev Mobile Java ou Dart
+ • 🌱 Atualmente estou me aprofundando em Dart e consumo de API's
+ • 💬 Pergunte-me sobre estruturad e códigos mobile Java e Dart
 
  
  
