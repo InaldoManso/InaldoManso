@@ -1,7 +1,7 @@
-### Olá, eu sou Inaldo👋
- • 🔭 Em busca da primeira oportunidade dev Mobile Java ou Dart
+### Olá, eu sou Inaldo ✌🏼
+ • 🔭 Em busca da primeira oportunidade dev Mobile Dart ou Java
  • 🌱 Atualmente estou me aprofundando em Dart e consumo de API's
- • 💬 Pergunte-me sobre estruturad e códigos mobile Java e Dart
+ • 💬 Pergunte-me sobre estruturas e códigos mobile Dart e Java
  <div>
   <a href="https://github.com/InaldoManso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=InaldoManso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
