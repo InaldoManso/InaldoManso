@@ -1,4 +1,7 @@
 ### Olá, eu sou Inaldo👋
+ • 🔭 Em busca da primeira oportunidade dev Mobile Java ou Dart
+ • 🌱 Atualmente estou me aprofundando em Dart e consumo de API's
+ • 💬 Pergunte-me sobre estruturad e códigos mobile Java e Dart
  <div>
   <a href="https://github.com/InaldoManso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InaldoManso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -23,11 +26,6 @@
   <a href="https://www.twitch.tv/manso_98" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/InaldoManso/InaldoManso/blob/output/github-contribution-grid-snake.svg)
 </div>
- 
-  ##
- • 🔭 Em busca da primeira oportunidade dev Mobile Java ou Dart
- • 🌱 Atualmente estou me aprofundando em Dart e consumo de API's
- • 💬 Pergunte-me sobre estruturad e códigos mobile Java e Dart
 
  
  
