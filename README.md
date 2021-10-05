@@ -1,5 +1,5 @@
 ### Olá, eu sou Inaldo ✌🏼
- • 👨‍💻 Desenvolvedor Flutter • Dart <br/>
+ • 👨‍💻 Desenvolvedor Flutter - Dart <br/>
  • 🌱 Atualmente estou me aprofundando em Dart e consumo de API's <br/>
  • 💬 Pergunte-me sobre estruturas e códigos mobile Dart e Java <br/>
  <div>
