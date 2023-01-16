@@ -1,7 +1,7 @@
 ### Olá, eu sou Inaldo ✌🏼
- • 👨‍💻 Desenvolvedor Flutter - Dart <br/>
- • 🌱 Atualmente estou me aprofundando em Dart e consumo de API's <br/>
- • 💬 Pergunte-me sobre estruturas e códigos mobile Dart e Java <br/>
+ • 👨‍💻 Full Flutter Developer <br/>
+ • 🌱 I'm currently delving into Dart and UX for Flutter <br/>
+ • 💬 Ask Me About Mobile Dart and Java Frameworks and Codes <br/>
  <div>
   <a href="https://github.com/InaldoManso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=InaldoManso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/manso_98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/manso_98" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/InaldoManso/InaldoManso/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/InaldoManso/InaldoManso/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
  
